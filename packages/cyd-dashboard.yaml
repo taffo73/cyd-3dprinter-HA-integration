@@ -3489,7 +3489,7 @@ lvgl:
     - tft
   touchscreens:
     - touchscreen_id: cyd_touch
-  buffer_size: 25%
+  buffer_size: 100%
   top_layer:
     widgets:
       - obj:
